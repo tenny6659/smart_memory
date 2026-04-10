@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+openai
+chromadb
+streamlit
+pyvis
+pandas
+networkx
+python-dotenv
+httpx
+sentence-transformers
